@@ -1,0 +1,5 @@
+No hacer mucho caso a la documentación, se hizo en una tarde
+Se recomienda mirar chess_expanded directamente, ya que es una mejora del mini_chess
+No es el mejor código que vais a ver, hay muchas cosas hechas con prisa, pero espero que os ayude en algo
+
+Se puede decargar NETLOGO desde la pagina web --> http://www.cs.us.es/~fsancho/?p=inteligencia-artificial
